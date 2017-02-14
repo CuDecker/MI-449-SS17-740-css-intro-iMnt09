@@ -49,3 +49,10 @@ span.city-description {
   margin: 0 auto;
   max-width: 500px;
 }
+a {
+  color: purple;
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+}
